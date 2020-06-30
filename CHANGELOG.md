@@ -5,7 +5,10 @@ All notable changes to this project will be documented in this file.
 <a name="unreleased"></a>
 ## [Unreleased]
 
+<a name="v1.32.0">
+## [v1.32.0] - 2020-06-30
 
+- fix: Removed sed dependency
 
 <a name="v1.31.0"></a>
 ## [v1.31.0] - 2020-05-27
